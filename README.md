@@ -8,18 +8,18 @@
 - [Git Tutorial](https://www.tutorialspoint.com/git/index.htm)
 - [Semantic Commit Message](https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716)
 - [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
----
+
 ## Algorithms and Data Structures✨
 - [Algorithm Tutorial](https://goalkicker.com/AlgorithmsBook/)
 - [Algorithm Visualizer](https://algorithm-visualizer.org)
----
+
 ## HTML✨
 - [DevDocs Html](https://devdocs.io/html/)
 - [Html Standard](https://html.spec.whatwg.org/multipage/grouping-content.html)
 - [Html Reference](https://htmlreference.io)
 - [Html Tutorial](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [Html Canvas](https://www.tutorialspoint.com/html_canvas/index.htm)
----
+
 ## CSS✨
 - [DevDocs CSS](https://devdocs.io/css/)
 - [CSS Tutorial](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -52,7 +52,7 @@
 - [Coolors](https://coolors.co)
 - [Lynn Fisher](https://lynnandtonic.com)
 - [Embed Map](https://www.embed-map.com)
----
+
 ## JavaScript✨
 - [DEvDocs JavaScript](https://devdocs.io/javascript/)
 - [JavaScript Tutorial](https://www.tutorialspoint.com/javascript/index.htm)
@@ -76,7 +76,7 @@
 - [JavaScript Algorithms](https://github.com/trekhleb/javascript-algorithms)
 - [JavaScript with Alican Gündüz](https://github.com/alicangunduz/30-Days-Of-JavaScript-Turkce)
 - [JavaScript for Everyone](https://github.com/Asabeneh/JavaScript-for-Everyone)
----
+
 ## Coding Practice✨
 - [HackerRank](https://www.hackerrank.com)
 - [Codility](https://www.codility.com)
@@ -95,7 +95,7 @@
 - [Codewell](https://www.codewell.cc/challenges)
 - [Dev Interview](https://devinterview.io)
 - [Great Frontend](https://www.greatfrontend.com/prepare/quiz)
----
+
 ## SCSS/SASS✨
 - [DevDocs SASS](https://devdocs.io/sass/)
 - [SCSS Converter](https://jsonformatter.org/scss-to-css)
@@ -103,17 +103,17 @@
 - [SASS Architecture](https://kiranworkspace.com/sass-architecture/)
 - [SASS Documentation](https://sass-lang.com)
 - [SASS with Kadir Kasım](https://www.youtube.com/playlist?list=PLHN6JcK509bNNf6xKYn9R7eWPEfF0bqUd)
----
+
 ## NPM✨
 - [Npm](https://www.npmjs.com)
 - [DevDocs Npm](https://devdocs.io/npm/)
----
+
 ## API✨
 - [Rapidapi](https://rapidapi.com/hub)
 - [TMDB](https://www.themoviedb.org)
 - [Turkis API](https://github.com/3rt4nm4n/turkish-apis)
 - [Public API List](https://github.com/public-api-lists/public-api-lists)
----
+
 ## React✨
 - [React Slick](https://react-slick.neostack.com/docs/get-started)
 - [React Icons](https://react-icons.github.io/react-icons)
@@ -128,17 +128,17 @@
 - [React Hot Toast](https://react-hot-toast.com)
 - [React Tutorial](https://react-tutorial.app)
 - [Immer.js](https://github.com/immerjs/use-immer)
----
+
 ## Next.js✨
 - [Next.js Tutorial](https://www.tutorialspoint.com/nextjs/index.htm)
 - [Next.js with Mehmet Pekcan](https://www.youtube.com/playlist?list=PLf3cxVeAm439RsaHrGACExl3o060pM7W2)
----
+
 ## Bootstrap✨
 - [DevDocs Bootstrap](https://devdocs.io/bootstrap~5/)
 - [Bootstrap Grid Examples](https://getbootstrap.com/docs/4.0/examples/grid/)
 - [Start Bootstrap](https://startbootstrap.com/?showAngular=false&showVue=false&showPro=false)
 - [MDB](https://mdbootstrap.com/docs/b4/jquery/)
----
+
 ## Tailwind CSS✨
 - [Tailblocks](https://tailblocks.cc)
 - [DevDocs Tailwind CSS](https://devdocs.io/tailwindcss/)
@@ -146,7 +146,7 @@
 - [Flowbite](https://flowbite.com)
 - [Tailwind CSS Cheat Sheet](https://tailwindcomponents.com/cheatsheet/)
 - [Tailwind CSS with Arin Yazilim](https://www.youtube.com/playlist?list=PL-Hkw4CrSVq-Oc898YeSkcHTAAS2K2S3f)
----
+
 ## UI✨
 - [Mantine](https://ui.mantine.dev)
 - [Baklava](https://baklava.design/?path=/docs/documentation-welcome--page)
@@ -167,42 +167,42 @@
 - [Shadcn UI](https://ui.shadcn.com)
 - [MUI](https://mui.com)
 - [Values.js](https://github.com/noeldelgado/values.js)
----
+
 ## Wireframe✨
 - [Excalidraw](https://excalidraw.com)
 - [Diagrams](https://app.diagrams.net)
----
+
 ## Python✨
 - [Python Documentation](https://docs.python.org/tr/3/)
 - [DevDocs Python](https://devdocs.io/python~3.11/)
 - [Python Tutorial](https://www.tutorialspoint.com/artificial_intelligence_with_python/index.htm)
----
+
 ## Markdown✨
 - [Markdown Guide](https://www.markdownguide.org/basic-syntax/)
----
+
 ## Node.js✨
 - [DevDocs Node.js](https://devdocs.io/node~18_lts/)
 - [30 Days of Node](https://github.com/nodejsera/30daysofnode)
 - [Nodeschool](https://nodeschool.io/tr/)
----
+
 ## Express.js✨
 - [Express.js Tutorial](https://www.tutorialspoint.com/expressjs/index.htm)
----
+
 ## C#✨
 - [C# Tutorial](https://www.tutorialspoint.com/csharp/index.htm)
----
+
 ## Java✨
 - [Java Tutorial](https://www.tutorialspoint.com/java/index.htm)
----
+
 ## Go✨
 - [Go with Furkan Gülsen](https://github.com/Furkan-Gulsen/turkce-go-egitimi)
----
+
 ## Prompt Engineering✨
 - [DeepLearning.AI](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/?utm_campaign=Prompt%20Engineering%20Launch&utm_content=246784582&utm_medium=social&utm_source=twitter&hss_channel=tw-992153930095251456)
 - [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
----
+
 ## Deep Learning✨
 - [Turkce Yapay Zeka Kaynaklari](https://github.com/deeplearningturkiye/turkce-yapay-zeka-kaynaklari)
----
+
 ## Contact With✨
 Dilara Uluturhan - [LinkedIn](https://www.linkedin.com/in/dilarauluturhan/) - dilarauluturhan@outlook.com
