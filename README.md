@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">✨DEVELOPER RESOURCE✨</h1>
+  <h1 align="center">✨DEVELOPER RESOURCES✨</h1>
 </div>
 
 ## GIT✨
