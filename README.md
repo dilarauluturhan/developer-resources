@@ -54,7 +54,7 @@
 - [Embed Map](https://www.embed-map.com)
 
 ## JavaScript✨
-- [DEvDocs JavaScript](https://devdocs.io/javascript/)
+- [DevDocs JavaScript](https://devdocs.io/javascript/)
 - [JavaScript Tutorial I](https://www.tutorialspoint.com/javascript/index.htm)
 - [JavaScirpt Tutorial II](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [JavaScirpt Tutorial III](https://www.w3resource.com/javascript/javascript.php)
