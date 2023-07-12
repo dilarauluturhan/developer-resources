@@ -221,7 +221,8 @@
 - [Godly](https://godly.website)
 - [Big Heads](https://bigheads.io)
 - [Emoji Cheatsheet](https://github.com/ikatyang/emoji-cheat-sheet)
-
+- [Chakra UI](https://chakra-ui.com/)
+  
 ## Wireframe✨
 - [Excalidraw](https://excalidraw.com)
 - [Diagrams](https://app.diagrams.net)
