@@ -8,8 +8,10 @@
 - [Git Tutorial](https://www.tutorialspoint.com/git/index.htm)
 - [Semantic Commit Message](https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716)
 - [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
+- [Git Cheatsheet](https://github.com/alicangunduz/git-cheatsheet-tr)
 
 ## Algorithms and Data Structures✨
+- [Google Data Structures and Algorithms Course](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/)
 - [Algorithm Tutorial](https://goalkicker.com/AlgorithmsBook/)
 - [Algorithm Visualizer](https://algorithm-visualizer.org)
 
@@ -52,6 +54,7 @@
 - [Coolors](https://coolors.co)
 - [Lynn Fisher](https://lynnandtonic.com)
 - [Embed Map](https://www.embed-map.com)
+- [Responsively](https://responsively.app)
 
 ## JavaScript✨
 - [DevDocs JavaScript](https://devdocs.io/javascript/)
@@ -75,6 +78,14 @@
 - [JavaScript Algorithms II](https://github.com/trekhleb/javascript-algorithms)
 - [JavaScript with Alican Gündüz](https://github.com/alicangunduz/30-Days-Of-JavaScript-Turkce)
 - [JavaScript for Everyone](https://github.com/Asabeneh/JavaScript-for-Everyone)
+- [100 Days Of JS](https://github.com/ozantekin/100DaysOfJS)
+- [ES6 Resource](https://github.com/fatihhayri/es6-turkce-kaynaklar)
+- [Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
+- [JavaScript Interview Questions](https://github.com/sudheerj/javascript-interview-questions)
+
+## TypeScript✨
+- [TypeScript Tutorial](https://www.typescripttutorial.net)
+- [TypeScript Book](https://books.goalkicker.com/TypeScriptBook2/)
 
 ## Coding Practice✨
 - [JavaScript Quiz](https://jsquiz.info)
@@ -128,6 +139,17 @@
 - [React Hot Toast](https://react-hot-toast.com)
 - [React Tutorial](https://react-tutorial.app)
 - [Immer.js](https://github.com/immerjs/use-immer)
+- [Build Your Own React](https://pomb.us/build-your-own-react/)
+- [React Book](https://books.goalkicker.com/ReactJSBook/)
+- [JavaScript for React](https://github.com/reactdersleri/react-icin-javascript)
+- [React Photoswipe Gallery](https://github.com/dromru/react-photoswipe-gallery)
+- [React Slick](https://github.com/akiran/react-slick)
+- [React Photo Album](https://github.com/igordanchenko/react-photo-album)
+- [React Images](https://github.com/jossmac/react-images)
+- [React Interview Questions](https://github.com/sudheerj/reactjs-interview-questions)
+- [React Photo Gallery](https://github.com/neptunian/react-photo-gallery)
+- [React Shopping Cart](https://github.com/jeffersonRibeiro/react-shopping-cart)
+- [Muhtesem React](https://github.com/dukeofsoftware/muhtesem-react)
 
 ## Next.js✨
 - [Next.js Tutorial](https://www.tutorialspoint.com/nextjs/index.htm)
@@ -146,6 +168,20 @@
 - [Flowbite](https://flowbite.com)
 - [Tailwind CSS Cheat Sheet](https://tailwindcomponents.com/cheatsheet/)
 - [Tailwind CSS with Arin Yazilim](https://www.youtube.com/playlist?list=PL-Hkw4CrSVq-Oc898YeSkcHTAAS2K2S3f)
+
+## Vue✨
+- [Learn Vue](https://www.youtube.com/@LearnVue/videos)
+- [Vue Mastery](https://www.vuemastery.com)
+- [Vue School](https://vueschool.io)
+- [Michael Thiessen](https://michaelnthiessen.com)
+- [LearnVue](https://learnvue.co)
+- [Egghead Vue](https://egghead.io/q?q=vue)
+- [Prime Vue](https://primevue.org)
+- [30 Days Of Vue](https://github.com/fullstackio/30-days-of-vue)
+
+## Angular✨
+- [Angular Tutorial](https://www.knowledgehut.com/tutorials/angular)
+- [Angular Book](https://books.goalkicker.com/AngularJSBook/)
 
 ## UI✨
 - [Mantine](https://ui.mantine.dev)
@@ -167,6 +203,24 @@
 - [Shadcn UI](https://ui.shadcn.com)
 - [MUI](https://mui.com)
 - [Values.js](https://github.com/noeldelgado/values.js)
+- [Best Website Gallery](https://bestwebsite.gallery)
+- [Landingfolio](https://www.landingfolio.com)
+- [One Page Love](https://onepagelove.com)
+- [UI STORE](https://www.uistore.design)
+- [Freebies](https://freebiesui.com)
+- [Screenlane](https://screenlane.com)
+- [Sketch Repo](https://sketchrepo.com)
+- [Landbook](https://land-book.com)
+- [Uibundle](https://uibundle.com)
+- [Dribbble](https://dribbble.com/shots)
+- [UI Space](https://uispace.net)
+- [Lapa](https://www.lapa.ninja)
+- [Theme Toggles](https://toggles.dev)
+- [Web Design Museum](https://www.webdesignmuseum.org)
+- [Mantine UI](https://ui.mantine.dev)
+- [Godly](https://godly.website)
+- [Big Heads](https://bigheads.io)
+- [Emoji Cheatsheet](https://github.com/ikatyang/emoji-cheat-sheet)
 
 ## Wireframe✨
 - [Excalidraw](https://excalidraw.com)
@@ -176,26 +230,43 @@
 - [Python Documentation](https://docs.python.org/tr/3/)
 - [DevDocs Python](https://devdocs.io/python~3.11/)
 - [Python Tutorial](https://www.tutorialspoint.com/artificial_intelligence_with_python/index.htm)
+- [Pyhton Book](https://books.goalkicker.com/PythonBook/)
 
 ## Markdown✨
 - [Markdown Guide](https://www.markdownguide.org/basic-syntax/)
 
 ## Node.js✨
+- [Node.js Tutorial](https://www.knowledgehut.com/tutorials/node-js)
 - [DevDocs Node.js](https://devdocs.io/node~18_lts/)
 - [30 Days of Node](https://github.com/nodejsera/30daysofnode)
 - [Nodeschool](https://nodeschool.io/tr/)
+- [Node.js Book](https://books.goalkicker.com/NodeJSBook/)
+- [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices)
 
 ## Express.js✨
 - [Express.js Tutorial](https://www.tutorialspoint.com/expressjs/index.htm)
 
+## SQL
+- [SQL Learning Game](https://lost-at-sql.therobinlord.com)
+- [SQL Book](https://books.goalkicker.com/SQLBook/)
+
 ## C#✨
-- [C# Tutorial](https://www.tutorialspoint.com/csharp/index.htm)
+- [C# Tutorial I](https://www.tutorialspoint.com/csharp/index.htm)
+- [C# Tutorial II](https://www.knowledgehut.com/tutorials/csharp)
+- [C# Book](https://books.goalkicker.com/CSharpBook/)
 
 ## Java✨
-- [Java Tutorial](https://www.tutorialspoint.com/java/index.htm)
+- [Java Tutorial I](https://www.tutorialspoint.com/java/index.htm)
+- [Java Tutorial II](https://www.knowledgehut.com/tutorials/java-tutorial)
+- [Java Book](https://books.goalkicker.com/JavaBook/)
 
 ## Go✨
 - [Go with Furkan Gülsen](https://github.com/Furkan-Gulsen/turkce-go-egitimi)
+
+## Swift✨
+- [Swift Tutorial](https://www.knowledgehut.com/tutorials/swift-tutorial)
+- [Swift Book](https://books.goalkicker.com/SwiftBook/)
+- [Swift Notes](https://github.com/DogukanSakin/SwiftNotlarim)
 
 ## Prompt Engineering✨
 - [DeepLearning.AI](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/?utm_campaign=Prompt%20Engineering%20Launch&utm_content=246784582&utm_medium=social&utm_source=twitter&hss_channel=tw-992153930095251456)
@@ -203,6 +274,7 @@
 
 ## Deep Learning✨
 - [Turkce Yapay Zeka Kaynaklari](https://github.com/deeplearningturkiye/turkce-yapay-zeka-kaynaklari)
+- [Machine Learning Tutorial](https://www.knowledgehut.com/tutorials/machine-learning)
 
 ## Contact With✨
 Dilara Uluturhan - [LinkedIn](https://www.linkedin.com/in/dilarauluturhan/) - dilarauluturhan@outlook.com
