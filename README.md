@@ -122,7 +122,7 @@
 ## API✨
 - [Rapidapi](https://rapidapi.com/hub)
 - [TMDB](https://www.themoviedb.org)
-- [Turkis API](https://github.com/3rt4nm4n/turkish-apis)
+- [Turkish API](https://github.com/3rt4nm4n/turkish-apis)
 - [Public API List](https://github.com/public-api-lists/public-api-lists)
 
 ## React✨
