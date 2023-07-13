@@ -59,9 +59,9 @@
 ## JavaScript✨
 - [DevDocs JavaScript](https://devdocs.io/javascript/)
 - [JavaScript Tutorial I](https://www.tutorialspoint.com/javascript/index.htm)
-- [JavaScirpt Tutorial II](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [JavaScirpt Tutorial III](https://www.w3resource.com/javascript/javascript.php)
-- [JavaScirpt Tutorial IV](https://www.btdersleri.com/ders/JavaScripte-Giriş)
+- [JavaScript Tutorial II](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [JavaScript Tutorial III](https://www.w3resource.com/javascript/javascript.php)
+- [JavaScript Tutorial IV](https://www.btdersleri.com/ders/JavaScripte-Giriş)
 - [JavaScript Info](https://tr.javascript.info)
 - [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 - [JavaScript Interview Questions](https://www.interviewbit.com/javascript-interview-questions/)
@@ -181,7 +181,6 @@
 
 ## Angular✨
 - [Angular Tutorial](https://www.knowledgehut.com/tutorials/angular)
-- [Angular Book](https://books.goalkicker.com/AngularJSBook/)
 
 ## UI✨
 - [Mantine](https://ui.mantine.dev)
