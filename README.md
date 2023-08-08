@@ -50,11 +50,8 @@
 - [fontFabric](https://www.fontfabric.com)
 - [Layout Generator](https://layout.bradwoods.io)
 - [CSS Generator](https://cssgenerator.org)
-- [Realtime Colors](https://realtimecolors.com/?colors=000000-ffffff-4685ff-f2f2f2-ffb084)
-- [Coolors](https://coolors.co)
-- [Lynn Fisher](https://lynnandtonic.com)
-- [Embed Map](https://www.embed-map.com)
 - [Responsively](https://responsively.app)
+- [CSS Portal](https://www.cssportal.com)
 
 ## JavaScript✨
 - [DevDocs JavaScript](https://devdocs.io/javascript/)
@@ -84,7 +81,8 @@
 - [JavaScript Interview Questions](https://github.com/sudheerj/javascript-interview-questions)
 
 ## TypeScript✨
-- [TypeScript Tutorial](https://www.typescripttutorial.net)
+- [TypeScript Tutorial I](https://www.typescripttutorial.net)
+- [TypeScript Tutorial II](https://www.w3schools.com/typescript/)
 - [TypeScript Book](https://books.goalkicker.com/TypeScriptBook2/)
 
 ## Coding Practice✨
@@ -106,6 +104,7 @@
 - [Codewell](https://www.codewell.cc/challenges)
 - [Dev Interview](https://devinterview.io)
 - [Great Frontend](https://www.greatfrontend.com/prepare/quiz)
+- [NeetCode](https://neetcode.io)
 
 ## SCSS/SASS✨
 - [DevDocs SASS](https://devdocs.io/sass/)
@@ -124,6 +123,12 @@
 - [TMDB](https://www.themoviedb.org)
 - [Turkis API](https://github.com/3rt4nm4n/turkish-apis)
 - [Public API List](https://github.com/public-api-lists/public-api-lists)
+- [PokeApi](https://pokeapi.co)
+- [Swapi](https://swapi.dev)
+- [The Ricky and Morty API](https://rickandmortyapi.com)
+- [Riotgames](https://developer.riotgames.com/apis)
+- [MyAnimeList API](https://myanimelist.net/apiconfig/references/api/v2)
+- [Pexels API](https://www.pexels.com/api/)
 
 ## React✨
 - [React Slick](https://react-slick.neostack.com/docs/get-started)
@@ -150,6 +155,9 @@
 - [React Photo Gallery](https://github.com/neptunian/react-photo-gallery)
 - [React Shopping Cart](https://github.com/jeffersonRibeiro/react-shopping-cart)
 - [Muhtesem React](https://github.com/dukeofsoftware/muhtesem-react)
+- [Tremor](https://www.tremor.so)
+- [React Hooks for Data Fetching](https://swr.vercel.app)
+- [useHooks](https://usehooks.com)
 
 ## Next.js✨
 - [Next.js Tutorial](https://www.tutorialspoint.com/nextjs/index.htm)
@@ -221,6 +229,15 @@
 - [Godly](https://godly.website)
 - [Big Heads](https://bigheads.io)
 - [Emoji Cheatsheet](https://github.com/ikatyang/emoji-cheat-sheet)
+- [Realtime Colors](https://realtimecolors.com/?colors=000000-ffffff-4685ff-f2f2f2-ffb084)
+- [Coolors](https://coolors.co)
+- [Lynn Fisher](https://lynnandtonic.com)
+- [Embed Map](https://www.embed-map.com)
+- [Daisy UI](https://daisyui.com)
+- [Praktika.ai](https://praktika.ai)
+- [ui.ibelick](https://ui.ibelick.com)
+- [Radix](https://www.radix-ui.com)
+- [Logoshaper](https://www.logoshaper.co/app)
 
 ## Wireframe✨
 - [Excalidraw](https://excalidraw.com)
@@ -267,6 +284,9 @@
 - [Swift Tutorial](https://www.knowledgehut.com/tutorials/swift-tutorial)
 - [Swift Book](https://books.goalkicker.com/SwiftBook/)
 - [Swift Notes](https://github.com/DogukanSakin/SwiftNotlarim)
+
+## Flutter✨
+- [Flutter Rehberi](https://github.com/flutterturkey/flutter-rehberi)
 
 ## Prompt Engineering✨
 - [DeepLearning.AI](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/?utm_campaign=Prompt%20Engineering%20Launch&utm_content=246784582&utm_medium=social&utm_source=twitter&hss_channel=tw-992153930095251456)
