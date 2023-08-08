@@ -228,7 +228,6 @@
 - [Godly](https://godly.website)
 - [Big Heads](https://bigheads.io)
 - [Emoji Cheatsheet](https://github.com/ikatyang/emoji-cheat-sheet)
-<<<<<<< HEAD
 - [Realtime Colors](https://realtimecolors.com/?colors=000000-ffffff-4685ff-f2f2f2-ffb084)
 - [Coolors](https://coolors.co)
 - [Lynn Fisher](https://lynnandtonic.com)
@@ -238,11 +237,8 @@
 - [ui.ibelick](https://ui.ibelick.com)
 - [Radix](https://www.radix-ui.com)
 - [Logoshaper](https://www.logoshaper.co/app)
-
-=======
 - [Chakra UI](https://chakra-ui.com/)
   
->>>>>>> be17bd8ee547bcedf65c736983100f04798809e7
 ## Wireframe✨
 - [Excalidraw](https://excalidraw.com)
 - [Diagrams](https://app.diagrams.net)
