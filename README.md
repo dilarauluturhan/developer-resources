@@ -56,9 +56,9 @@
 ## JavaScript✨
 - [DevDocs JavaScript](https://devdocs.io/javascript/)
 - [JavaScript Tutorial I](https://www.tutorialspoint.com/javascript/index.htm)
-- [JavaScirpt Tutorial II](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [JavaScirpt Tutorial III](https://www.w3resource.com/javascript/javascript.php)
-- [JavaScirpt Tutorial IV](https://www.btdersleri.com/ders/JavaScripte-Giriş)
+- [JavaScript Tutorial II](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [JavaScript Tutorial III](https://www.w3resource.com/javascript/javascript.php)
+- [JavaScript Tutorial IV](https://www.btdersleri.com/ders/JavaScripte-Giriş)
 - [JavaScript Info](https://tr.javascript.info)
 - [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 - [JavaScript Interview Questions](https://www.interviewbit.com/javascript-interview-questions/)
@@ -121,7 +121,7 @@
 ## API✨
 - [Rapidapi](https://rapidapi.com/hub)
 - [TMDB](https://www.themoviedb.org)
-- [Turkis API](https://github.com/3rt4nm4n/turkish-apis)
+- [Turkish API](https://github.com/3rt4nm4n/turkish-apis)
 - [Public API List](https://github.com/public-api-lists/public-api-lists)
 - [PokeApi](https://pokeapi.co)
 - [Swapi](https://swapi.dev)
@@ -189,7 +189,6 @@
 
 ## Angular✨
 - [Angular Tutorial](https://www.knowledgehut.com/tutorials/angular)
-- [Angular Book](https://books.goalkicker.com/AngularJSBook/)
 
 ## UI✨
 - [Mantine](https://ui.mantine.dev)
@@ -229,6 +228,7 @@
 - [Godly](https://godly.website)
 - [Big Heads](https://bigheads.io)
 - [Emoji Cheatsheet](https://github.com/ikatyang/emoji-cheat-sheet)
+<<<<<<< HEAD
 - [Realtime Colors](https://realtimecolors.com/?colors=000000-ffffff-4685ff-f2f2f2-ffb084)
 - [Coolors](https://coolors.co)
 - [Lynn Fisher](https://lynnandtonic.com)
@@ -239,6 +239,10 @@
 - [Radix](https://www.radix-ui.com)
 - [Logoshaper](https://www.logoshaper.co/app)
 
+=======
+- [Chakra UI](https://chakra-ui.com/)
+  
+>>>>>>> be17bd8ee547bcedf65c736983100f04798809e7
 ## Wireframe✨
 - [Excalidraw](https://excalidraw.com)
 - [Diagrams](https://app.diagrams.net)
