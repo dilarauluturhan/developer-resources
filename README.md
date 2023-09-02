@@ -79,6 +79,7 @@
 - [ES6 Resource](https://github.com/fatihhayri/es6-turkce-kaynaklar)
 - [Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
 - [JavaScript Interview Questions](https://github.com/sudheerj/javascript-interview-questions)
+- [Regex 101](https://regex101.com)
 
 ## TypeScript✨
 - [TypeScript Tutorial I](https://www.typescripttutorial.net)
@@ -105,6 +106,9 @@
 - [Dev Interview](https://devinterview.io)
 - [Great Frontend](https://www.greatfrontend.com/prepare/quiz)
 - [NeetCode](https://neetcode.io)
+- [Grid Garden](https://codepip.com/games/grid-garden/#tr)
+- [Flexbox Froggy](https://flexboxfroggy.com/#tr)
+- [Dev Interview](https://devinterview.io)
 
 ## SCSS/SASS✨
 - [DevDocs SASS](https://devdocs.io/sass/)
@@ -158,6 +162,7 @@
 - [Tremor](https://www.tremor.so)
 - [React Hooks for Data Fetching](https://swr.vercel.app)
 - [useHooks](https://usehooks.com)
+- [Apexcharts](https://www.npmjs.com/package/react-apexcharts)
 
 ## Next.js✨
 - [Next.js Tutorial](https://www.tutorialspoint.com/nextjs/index.htm)
@@ -176,6 +181,7 @@
 - [Flowbite](https://flowbite.com)
 - [Tailwind CSS Cheat Sheet](https://tailwindcomponents.com/cheatsheet/)
 - [Tailwind CSS with Arin Yazilim](https://www.youtube.com/playlist?list=PL-Hkw4CrSVq-Oc898YeSkcHTAAS2K2S3f)
+- [Tailwind Color](https://tailwindcolor.com)
 
 ## Vue✨
 - [Learn Vue](https://www.youtube.com/@LearnVue/videos)
@@ -238,6 +244,10 @@
 - [Radix](https://www.radix-ui.com)
 - [Logoshaper](https://www.logoshaper.co/app)
 - [Chakra UI](https://chakra-ui.com/)
+- [Rough Notation](https://roughnotation.com)
+- [Avvvatars](https://avvvatars.com)
+- [CSS3 Patterns](https://projects.verou.me/css3patterns/)
+- [Preline](https://preline.co/index.html)
   
 ## Wireframe✨
 - [Excalidraw](https://excalidraw.com)
