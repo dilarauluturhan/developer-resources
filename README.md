@@ -133,6 +133,7 @@
 - [Riotgames](https://developer.riotgames.com/apis)
 - [MyAnimeList API](https://myanimelist.net/apiconfig/references/api/v2)
 - [Pexels API](https://www.pexels.com/api/)
+- [Weather API](https://www.weatherapi.com/)
 
 ## React✨
 - [React Slick](https://react-slick.neostack.com/docs/get-started)
@@ -143,6 +144,8 @@
 - [DevDocs React Router](https://devdocs.io/react_router/)
 - [DevDocs Redux](https://devdocs.io/redux/)
 - [HTML to JSX](https://transform.tools/html-to-jsx)
+- [AI to UI](https://ai2ui.co/)
+- [JS to TS](https://js2ts.com/)
 - [React.gg](https://react.gg/visualized)
 - [React Spinners](https://www.davidhu.io/react-spinners/)
 - [React Hot Toast](https://react-hot-toast.com)
