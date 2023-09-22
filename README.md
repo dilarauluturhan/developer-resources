@@ -45,6 +45,7 @@
 - [Font Awesome](https://fontawesome.com)
 - [Feather Icons](https://feathericons.com)
 - [CSS Gradient](https://cssgradient.io)
+- [CSS Gradient Generator by Uğur Akçora](https://gradient-generator-beryl.vercel.app/)
 - [Transition.css](https://www.transition.style)
 - [CSS Selectors](https://webdesign.tutsplus.com/tr/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
 - [fontFabric](https://www.fontfabric.com)
@@ -52,6 +53,8 @@
 - [CSS Generator](https://cssgenerator.org)
 - [Responsively](https://responsively.app)
 - [CSS Portal](https://www.cssportal.com)
+- [CSS Reference](https://cssreference.io)
+- [CSS Grid Generator](https://cssgrid-generator.netlify.app)
 
 ## JavaScript✨
 - [DevDocs JavaScript](https://devdocs.io/javascript/)
@@ -80,6 +83,7 @@
 - [Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
 - [JavaScript Interview Questions](https://github.com/sudheerj/javascript-interview-questions)
 - [Regex 101](https://regex101.com)
+- [Regexr](https://regexr.com)
 
 ## TypeScript✨
 - [TypeScript Tutorial I](https://www.typescripttutorial.net)
@@ -134,6 +138,27 @@
 - [MyAnimeList API](https://myanimelist.net/apiconfig/references/api/v2)
 - [Pexels API](https://www.pexels.com/api/)
 - [Weather API](https://www.weatherapi.com/)
+- [Open Weather Map](https://openweathermap.org/api)
+- [Lyrics API](https://lyrics.ovh)
+
+## JSON✨
+- [JSON Formatter](https://jsonformatter.org)
+- [JSON Generator](https://www.json-generator.com)
+- [JSON Placeholder](https://jsonplaceholder.typicode.com)
+  
+## React Native✨
+- [React Native Tutorial](https://www.tutorialspoint.com/react_native/index.htm)
+- [React Native Tutorial II](https://www.knowledgehut.com/tutorials/react-native)
+- [React Native Tutorial III](https://reactnative.dev/docs/getting-started)
+- [React Native Tutorial IV](https://www.w3schools.com/reactnative/default.asp)
+  
+## Redux✨
+- [Redux Tutorial](https://www.tutorialspoint.com/redux/index.htm)
+- [Redux Tutorial II](https://www.knowledgehut.com/tutorials/redux)
+- [Redux Tutorial III](https://redux.js.org)
+- [Redux Tutorial IV](https://www.w3schools.com/redux/default.asp)
+- [Redux Tutorial V](https://www.valentinog.com/blog/redux/)
+- [Redux Tutorial VI](https://www.youtube.com/watch?v=CVpUuw9XSjY&list=PL55RiY5tL51rrC3sh8qLiYHqUV3twEYU_)
 
 ## React✨
 - [React Slick](https://react-slick.neostack.com/docs/get-started)
