@@ -154,11 +154,10 @@
   
 ## Redux✨
 - [Redux Tutorial](https://www.tutorialspoint.com/redux/index.htm)
-- [Redux Tutorial II](https://www.knowledgehut.com/tutorials/redux)
-- [Redux Tutorial III](https://redux.js.org)
-- [Redux Tutorial IV](https://www.w3schools.com/redux/default.asp)
-- [Redux Tutorial V](https://www.valentinog.com/blog/redux/)
-- [Redux Tutorial VI](https://www.youtube.com/watch?v=CVpUuw9XSjY&list=PL55RiY5tL51rrC3sh8qLiYHqUV3twEYU_)
+- [Redux Tutorial II](https://redux.js.org)
+- [Redux Tutorial III](https://www.w3schools.com/redux/default.asp)
+- [Redux Tutorial IV](https://www.valentinog.com/blog/redux/)
+- [Redux Tutorial V](https://www.youtube.com/watch?v=CVpUuw9XSjY&list=PL55RiY5tL51rrC3sh8qLiYHqUV3twEYU_)
 
 ## React✨
 - [React Slick](https://react-slick.neostack.com/docs/get-started)
