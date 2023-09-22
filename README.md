@@ -147,17 +147,18 @@
 - [JSON Placeholder](https://jsonplaceholder.typicode.com)
   
 ## React Native✨
-- [React Native Tutorial](https://www.tutorialspoint.com/react_native/index.htm)
+- [React Native Tutorial I](https://www.tutorialspoint.com/react_native/index.htm)
 - [React Native Tutorial II](https://www.knowledgehut.com/tutorials/react-native)
 - [React Native Tutorial III](https://reactnative.dev/docs/getting-started)
 - [React Native Tutorial IV](https://www.w3schools.com/reactnative/default.asp)
   
 ## Redux✨
-- [Redux Tutorial](https://www.tutorialspoint.com/redux/index.htm)
+- [Redux Tutorial I](https://www.tutorialspoint.com/redux/index.htm)
 - [Redux Tutorial II](https://redux.js.org)
 - [Redux Tutorial III](https://www.w3schools.com/redux/default.asp)
 - [Redux Tutorial IV](https://www.valentinog.com/blog/redux/)
 - [Redux Tutorial V](https://www.youtube.com/watch?v=CVpUuw9XSjY&list=PL55RiY5tL51rrC3sh8qLiYHqUV3twEYU_)
+- [DevDocs Redux](https://devdocs.io/redux/)
 
 ## React✨
 - [React Slick](https://react-slick.neostack.com/docs/get-started)
@@ -166,7 +167,6 @@
 - [DevDocs React](https://devdocs.io/react/)
 - [DevDocs React Bootstrap](https://devdocs.io/react_bootstrap/)
 - [DevDocs React Router](https://devdocs.io/react_router/)
-- [DevDocs Redux](https://devdocs.io/redux/)
 - [HTML to JSX](https://transform.tools/html-to-jsx)
 - [AI to UI](https://ai2ui.co/)
 - [JS to TS](https://js2ts.com/)
@@ -332,6 +332,3 @@
 ## Deep Learning✨
 - [Turkce Yapay Zeka Kaynaklari](https://github.com/deeplearningturkiye/turkce-yapay-zeka-kaynaklari)
 - [Machine Learning Tutorial](https://www.knowledgehut.com/tutorials/machine-learning)
-
-## Contact With✨
-Dilara Uluturhan - [LinkedIn](https://www.linkedin.com/in/dilarauluturhan/) - dilarauluturhan@outlook.com
