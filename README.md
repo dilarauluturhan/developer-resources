@@ -2,18 +2,26 @@
   <h1 align="center">✨DEVELOPER RESOURCES✨</h1>
 </div>
 
+## Frontend Developer Roadmap✨
+- [Frontend Masters/Roadmap](https://frontendmasters.com/guides/learning-roadmap/)
+- [Coderspace/Roadmap](https://coderspace.io/roadmap/front-end-developer-yol-haritasi/)
+- [roadmap.sh](https://roadmap.sh/frontend)
+
 ## GIT✨
-- [Git Explorer](https://gitexplorer.com)
 - [Git Guide](https://rogerdudler.github.io/git-guide/index.tr.html)
 - [Git Tutorial](https://www.tutorialspoint.com/git/index.htm)
 - [Semantic Commit Message](https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716)
 - [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
-- [Git Cheatsheet](https://github.com/alicangunduz/git-cheatsheet-tr)
+- [Git Cheatsheet](https://git-cheatsheet-tr.vercel.app)
+- [Terminal Gif](https://www.terminalgif.com)
+- [gitignore.io](https://www.toptal.com/developers/gitignore)
+- [GPRM](https://gprm.itsvg.in)
 
 ## Algorithms and Data Structures✨
 - [Google Data Structures and Algorithms Course](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/)
 - [Algorithm Tutorial](https://goalkicker.com/AlgorithmsBook/)
 - [Algorithm Visualizer](https://algorithm-visualizer.org)
+- [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 
 ## HTML✨
 - [DevDocs Html](https://devdocs.io/html/)
@@ -25,17 +33,13 @@
 ## CSS✨
 - [DevDocs CSS](https://devdocs.io/css/)
 - [CSS Tutorial](https://developer.mozilla.org/en-US/docs/Web/CSS)
-- [CSS Templates I](https://nicepage.com/tr/css-sablonlari)
-- [CSS Templates II](https://css-awards.com)
-- [CSS Templates III](https://www.cssdesignawards.com)
+- [nicepage](https://nicepage.com/tr/css-sablonlari)
+- [CSS Awards](https://css-awards.com)
+- [CSS Design Awards](https://www.cssdesignawards.com)
 - [CSS Tricks](https://css-tricks.com)
-- [Responsive Web Design](https://www.w3schools.com/css/css_rwd_intro.asp)
-- [Grid I](https://www.w3schools.com/css/css_grid.asp)
-- [Grid II](https://grid.malven.co)
-- [Flexbox I](https://www.w3schools.com/css/css3_flexbox.asp)
-- [Flexbox II](https://www.tutorialspoint.com/flexbox/index.htm)
-- [Flexbox III](https://flexbox.malven.co)
-- [Color Generator](http://www.abecem.net/web/renk.html)
+- [Grid Malven](https://grid.malven.co)
+- [Flexbox Tutorial](https://www.tutorialspoint.com/flexbox/index.htm)
+- [Flexbox Malven](https://flexbox.malven.co)
 - [Google Fonts](https://fonts.google.com)
 - [Lorem Picsum](https://picsum.photos)
 - [Color Hunt](https://colorhunt.co)
@@ -47,7 +51,6 @@
 - [CSS Gradient](https://cssgradient.io)
 - [CSS Gradient Generator by Uğur Akçora](https://gradient-generator-beryl.vercel.app/)
 - [Transition.css](https://www.transition.style)
-- [CSS Selectors](https://webdesign.tutsplus.com/tr/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
 - [fontFabric](https://www.fontfabric.com)
 - [Layout Generator](https://layout.bradwoods.io)
 - [CSS Generator](https://cssgenerator.org)
@@ -55,6 +58,9 @@
 - [CSS Portal](https://www.cssportal.com)
 - [CSS Reference](https://cssreference.io)
 - [CSS Grid Generator](https://cssgrid-generator.netlify.app)
+- [Lightning CSS](https://lightningcss.dev)
+- [CSS Selectors I](https://webdesign.tutsplus.com/tr/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
+- [CSS Selectors II](https://fffuel.co/css-selectors/)
 
 ## JavaScript✨
 - [DevDocs JavaScript](https://devdocs.io/javascript/)
@@ -84,6 +90,7 @@
 - [JavaScript Interview Questions](https://github.com/sudheerj/javascript-interview-questions)
 - [Regex 101](https://regex101.com)
 - [Regexr](https://regexr.com)
+- [JS to TS](https://js2ts.com)
 
 ## TypeScript✨
 - [TypeScript Tutorial I](https://www.typescripttutorial.net)
@@ -91,7 +98,6 @@
 - [TypeScript Book](https://books.goalkicker.com/TypeScriptBook2/)
 
 ## Coding Practice✨
-- [JavaScript Quiz](https://jsquiz.info)
 - [HackerRank](https://www.hackerrank.com)
 - [Codility](https://www.codility.com)
 - [Exercism](https://exercism.org)
@@ -112,19 +118,13 @@
 - [NeetCode](https://neetcode.io)
 - [Grid Garden](https://codepip.com/games/grid-garden/#tr)
 - [Flexbox Froggy](https://flexboxfroggy.com/#tr)
-- [Dev Interview](https://devinterview.io)
 
 ## SCSS/SASS✨
 - [DevDocs SASS](https://devdocs.io/sass/)
 - [SCSS Converter](https://jsonformatter.org/scss-to-css)
 - [SASS Tutorial](https://www.tutorialspoint.com/sass/index.htm)
-- [SASS Architecture](https://kiranworkspace.com/sass-architecture/)
 - [SASS Documentation](https://sass-lang.com)
 - [SASS with Kadir Kasım](https://www.youtube.com/playlist?list=PLHN6JcK509bNNf6xKYn9R7eWPEfF0bqUd)
-
-## NPM✨
-- [Npm](https://www.npmjs.com)
-- [DevDocs Npm](https://devdocs.io/npm/)
 
 ## API✨
 - [Rapidapi](https://rapidapi.com/hub)
@@ -140,24 +140,22 @@
 - [Weather API](https://www.weatherapi.com/)
 - [Open Weather Map](https://openweathermap.org/api)
 - [Lyrics API](https://lyrics.ovh)
+- [mockAPI](https://mockapi.io/projects)
 
 ## JSON✨
 - [JSON Formatter](https://jsonformatter.org)
 - [JSON Generator](https://www.json-generator.com)
 - [JSON Placeholder](https://jsonplaceholder.typicode.com)
+- [Mockaroo - Random Data](https://www.mockaroo.com)
   
 ## React Native✨
 - [React Native Tutorial I](https://www.tutorialspoint.com/react_native/index.htm)
-- [React Native Tutorial II](https://www.knowledgehut.com/tutorials/react-native)
-- [React Native Tutorial III](https://reactnative.dev/docs/getting-started)
-- [React Native Tutorial IV](https://www.w3schools.com/reactnative/default.asp)
+- [React Native Tutorial II](https://reactnative.dev/docs/getting-started)
   
 ## Redux✨
-- [Redux Tutorial I](https://www.tutorialspoint.com/redux/index.htm)
-- [Redux Tutorial II](https://redux.js.org)
-- [Redux Tutorial III](https://www.w3schools.com/redux/default.asp)
-- [Redux Tutorial IV](https://www.valentinog.com/blog/redux/)
-- [Redux Tutorial V](https://www.youtube.com/watch?v=CVpUuw9XSjY&list=PL55RiY5tL51rrC3sh8qLiYHqUV3twEYU_)
+- [Redux Tutorial I](https://redux.js.org)
+- [Redux Tutorial II](https://www.valentinog.com/blog/redux/)
+- [Redux Tutorial III](https://www.youtube.com/watch?v=CVpUuw9XSjY&list=PL55RiY5tL51rrC3sh8qLiYHqUV3twEYU_)
 - [DevDocs Redux](https://devdocs.io/redux/)
 
 ## React✨
@@ -168,8 +166,7 @@
 - [DevDocs React Bootstrap](https://devdocs.io/react_bootstrap/)
 - [DevDocs React Router](https://devdocs.io/react_router/)
 - [HTML to JSX](https://transform.tools/html-to-jsx)
-- [AI to UI](https://ai2ui.co/)
-- [JS to TS](https://js2ts.com/)
+- [AI to UI Component](https://ai2ui.co/)
 - [React.gg](https://react.gg/visualized)
 - [React Spinners](https://www.davidhu.io/react-spinners/)
 - [React Hot Toast](https://react-hot-toast.com)
@@ -190,10 +187,12 @@
 - [React Hooks for Data Fetching](https://swr.vercel.app)
 - [useHooks](https://usehooks.com)
 - [Apexcharts](https://www.npmjs.com/package/react-apexcharts)
+- [Component Party](https://component-party.dev)
 
 ## Next.js✨
 - [Next.js Tutorial](https://www.tutorialspoint.com/nextjs/index.htm)
 - [Next.js with Mehmet Pekcan](https://www.youtube.com/playlist?list=PLf3cxVeAm439RsaHrGACExl3o060pM7W2)
+- [Next.js with JavaScript Mastery](https://youtu.be/wm5gMKuwSYk?si=Jl83IKvhZDrRX2j_)
 
 ## Bootstrap✨
 - [DevDocs Bootstrap](https://devdocs.io/bootstrap~5/)
@@ -209,6 +208,7 @@
 - [Tailwind CSS Cheat Sheet](https://tailwindcomponents.com/cheatsheet/)
 - [Tailwind CSS with Arin Yazilim](https://www.youtube.com/playlist?list=PL-Hkw4CrSVq-Oc898YeSkcHTAAS2K2S3f)
 - [Tailwind Color](https://tailwindcolor.com)
+- [Mamba UI](https://mambaui.com)
 
 ## Vue✨
 - [Learn Vue](https://www.youtube.com/@LearnVue/videos)
@@ -219,12 +219,10 @@
 - [Egghead Vue](https://egghead.io/q?q=vue)
 - [Prime Vue](https://primevue.org)
 - [30 Days Of Vue](https://github.com/fullstackio/30-days-of-vue)
-
-## Angular✨
-- [Angular Tutorial](https://www.knowledgehut.com/tutorials/angular)
+- [Vue with Gökhan Kandemir](https://youtube.com/playlist?list=PL_f2F0Oyaj48Y0Uv4BTlqzK7INi92D2wp&si=lJW3w0oltROli-XM)
 
 ## UI✨
-- [Mantine](https://ui.mantine.dev)
+- [Mantine UI](https://ui.mantine.dev)
 - [Baklava](https://baklava.design/?path=/docs/documentation-welcome--page)
 - [UI Design Daily](https://www.uidesigndaily.com)
 - [Uisual](https://uisual.com)
@@ -257,7 +255,6 @@
 - [Lapa](https://www.lapa.ninja)
 - [Theme Toggles](https://toggles.dev)
 - [Web Design Museum](https://www.webdesignmuseum.org)
-- [Mantine UI](https://ui.mantine.dev)
 - [Godly](https://godly.website)
 - [Big Heads](https://bigheads.io)
 - [Emoji Cheatsheet](https://github.com/ikatyang/emoji-cheat-sheet)
@@ -271,10 +268,23 @@
 - [Radix](https://www.radix-ui.com)
 - [Logoshaper](https://www.logoshaper.co/app)
 - [Chakra UI](https://chakra-ui.com/)
+- [Rough.js](https://roughjs.com)
 - [Rough Notation](https://roughnotation.com)
 - [Avvvatars](https://avvvatars.com)
 - [CSS3 Patterns](https://projects.verou.me/css3patterns/)
 - [Preline](https://preline.co/index.html)
+- [UI Colorgen](https://ui-colorgen.vercel.app)
+- [Magic Patterns](https://www.magicpatterns.com)
+- [WakaTime](https://wakatime.com)
+- [NextUI](https://nextui.org)
+- [Ionicons](https://ionic.io/ionicons/)
+- [Cartalog](https://cartalog.site)
+- [uiGradients](https://uigradients.com/#Disco)
+- [Logoipsum](https://logoipsum.com)
+- [Lucide](https://lucide.dev)
+- [Boxicons](https://boxicons.com)
+- [Heroicons](https://heroicons.com)
+- [Tabler Icons](https://tabler.io/icons)
   
 ## Wireframe✨
 - [Excalidraw](https://excalidraw.com)
@@ -325,8 +335,12 @@
 ## Flutter✨
 - [Flutter Rehberi](https://github.com/flutterturkey/flutter-rehberi)
 
+## Docker✨
+- [Docker with Gökhan Kandemir](https://github.com/gkandemi/docker)
+- [Docker Tutorial with Gökhan Kandemir](https://youtube.com/playlist?list=PL_f2F0Oyaj4_xkCDqnRWp4p5ypjDeC0kO&si=SQb4yKuJf7Y1Z16p)
+
 ## Prompt Engineering✨
-- [DeepLearning.AI](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/?utm_campaign=Prompt%20Engineering%20Launch&utm_content=246784582&utm_medium=social&utm_source=twitter&hss_channel=tw-992153930095251456)
+- [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/?utm_campaign=Prompt%20Engineering%20Launch&utm_content=246784582&utm_medium=social&utm_source=twitter&hss_channel=tw-992153930095251456)
 - [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
 
 ## Deep Learning✨
