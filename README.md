@@ -24,15 +24,20 @@
 - [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 
 ## HTML✨
-- [DevDocs Html](https://devdocs.io/html/)
-- [Html Standard](https://html.spec.whatwg.org/multipage/grouping-content.html)
-- [Html Reference](https://htmlreference.io)
-- [Html Tutorial](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- [Html Canvas](https://www.tutorialspoint.com/html_canvas/index.htm)
+- [DevDocs HTML](https://devdocs.io/html/)
+- [HTML Standard](https://html.spec.whatwg.org/multipage/grouping-content.html)
+- [HTML Reference](https://htmlreference.io)
+- [HTML Tutorial I](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [HTML Tutorial II](https://www.w3schools.com/html/default.asp)
+- [HTML Canvas](https://www.tutorialspoint.com/html_canvas/index.htm)
+- [HTML Emmets](https://docs.emmet.io/cheat-sheet/)
+- [Unicode List](https://symbl.cc/en/unicode/table/)
+- [BEM Methodology](https://en.bem.info/methodology/)
 
 ## CSS✨
 - [DevDocs CSS](https://devdocs.io/css/)
-- [CSS Tutorial](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [CSS Tutorial I](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [CSS Tutorial II](https://www.w3schools.com/css/default.asp)
 - [nicepage](https://nicepage.com/tr/css-sablonlari)
 - [CSS Awards](https://css-awards.com)
 - [CSS Design Awards](https://www.cssdesignawards.com)
@@ -61,6 +66,20 @@
 - [Lightning CSS](https://lightningcss.dev)
 - [CSS Selectors I](https://webdesign.tutsplus.com/tr/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
 - [CSS Selectors II](https://fffuel.co/css-selectors/)
+- [CSS Specificity Calculator](https://specificity.keegan.st/)
+- [Screen Reader](https://www.scottohara.me/blog/2017/04/14/inclusively-hidden.html#page_banner)
+- [CSS Reset](https://www.joshwcomeau.com/css/custom-css-reset/)
+- [MaintainableCSS](https://maintainablecss.com/)
+- [CSS Zen Garden](https://www.csszengarden.com/)
+- [Geist Font](https://vercel.com/font)
+- [Lordicon](https://lordicon.com/)
+- [unDraw](https://undraw.co/illustrations)
+- [Lottie Files](https://lottiefiles.com/)
+- [Storyset](https://storyset.com/)
+- [Notion Avatar Maker](https://notion-avatar.vercel.app/)
+- [Favicon Generator](https://favicon.io/)
+- [Defensive CSS](https://defensivecss.dev/tips)
+- [VS Code Font](https://monaspace.githubnext.com/#learn-more)
 
 ## JavaScript✨
 - [DevDocs JavaScript](https://devdocs.io/javascript/)
@@ -68,6 +87,7 @@
 - [JavaScript Tutorial II](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [JavaScript Tutorial III](https://www.w3resource.com/javascript/javascript.php)
 - [JavaScript Tutorial IV](https://www.btdersleri.com/ders/JavaScripte-Giriş)
+- [JavaScript Tutorial V](https://www.w3schools.com/js/default.asp)
 - [JavaScript Info](https://tr.javascript.info)
 - [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 - [JavaScript Interview Questions](https://www.interviewbit.com/javascript-interview-questions/)
@@ -91,6 +111,9 @@
 - [Regex 101](https://regex101.com)
 - [Regexr](https://regexr.com)
 - [JS to TS](https://js2ts.com)
+- [The Algorithms-JavaScript](https://the-algorithms.com/language/javascript)
+- [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
+- [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript)
 
 ## TypeScript✨
 - [TypeScript Tutorial I](https://www.typescripttutorial.net)
@@ -102,6 +125,7 @@
 - [Codility](https://www.codility.com)
 - [Exercism](https://exercism.org)
 - [Frontend Mentor](https://www.frontendmentor.io)
+- [Frontend Mentor Challenge Order](https://fedmentor.dev/posts/newbie-fm-challenge-order/)
 - [CSS Battle](https://cssbattle.dev)
 - [JavaScript Quiz](https://javascriptquiz.com)
 - [Codewars](https://www.codewars.com)
@@ -118,6 +142,14 @@
 - [NeetCode](https://neetcode.io)
 - [Grid Garden](https://codepip.com/games/grid-garden/#tr)
 - [Flexbox Froggy](https://flexboxfroggy.com/#tr)
+- [Code My UI](https://codemyui.com/)
+- [Project Euler](https://www.freecodecamp.org/learn/project-euler/)
+- [iCodeThis](https://icodethis.com/)
+- [100 JavaScript Projects](https://www.100jsprojects.com/)
+- [CSS Diner](https://flukeout.github.io/)
+- [Flexbox Defense](http://www.flexboxdefense.com/)
+- [Flexbox Zombies](https://mastery.games/flexboxzombies/)
+- [50 Projects 50 Days](https://github.com/bradtraversy/50projects50days?tab=readme-ov-file)
 
 ## SCSS/SASS✨
 - [DevDocs SASS](https://devdocs.io/sass/)
@@ -141,17 +173,20 @@
 - [Open Weather Map](https://openweathermap.org/api)
 - [Lyrics API](https://lyrics.ovh)
 - [mockAPI](https://mockapi.io/projects)
+- [API Layer](https://apilayer.com/)
+- [Public APIs](https://github.com/public-apis/public-apis)
+- [Faker.js](https://fakerjs.dev/)
 
 ## JSON✨
 - [JSON Formatter](https://jsonformatter.org)
 - [JSON Generator](https://www.json-generator.com)
 - [JSON Placeholder](https://jsonplaceholder.typicode.com)
 - [Mockaroo - Random Data](https://www.mockaroo.com)
-  
+
 ## React Native✨
 - [React Native Tutorial I](https://www.tutorialspoint.com/react_native/index.htm)
 - [React Native Tutorial II](https://reactnative.dev/docs/getting-started)
-  
+
 ## Redux✨
 - [Redux Tutorial I](https://redux.js.org)
 - [Redux Tutorial II](https://www.valentinog.com/blog/redux/)
@@ -209,6 +244,7 @@
 - [Tailwind CSS with Arin Yazilim](https://www.youtube.com/playlist?list=PL-Hkw4CrSVq-Oc898YeSkcHTAAS2K2S3f)
 - [Tailwind Color](https://tailwindcolor.com)
 - [Mamba UI](https://mambaui.com)
+- [Tailwind Grid Generator](https://www.tailwindgen.com/)
 
 ## Vue✨
 - [Learn Vue](https://www.youtube.com/@LearnVue/videos)
@@ -285,7 +321,31 @@
 - [Boxicons](https://boxicons.com)
 - [Heroicons](https://heroicons.com)
 - [Tabler Icons](https://tabler.io/icons)
-  
+- [Responsive Design Checker](https://responsivedesignchecker.com/)
+- [Pigment](https://pigment.shapefactory.co/)
+- [Driver.js](https://driverjs.com/)
+- [Particles.js](https://particles.js.org/)
+- [Anime.js](https://animejs.com/)
+- [GSAP](https://gsap.com/)
+- [Animate on Scroll](https://michalsnik.github.io/aos/)
+- [Scroll Magic](https://scrollmagic.io/)
+- [Hover CSS](http://ianlunn.github.io/Hover/)
+
+## Design Tools✨
+- [Figma](https://www.figma.com/)
+- [Canva](https://www.canva.com/)
+
+## Design Ideas✨
+- [v0](https://v0.dev/)
+- [AI Page](https://aipage.dev/)
+- [Namelix](https://namelix.com/)
+
+## Chrome Developer Extensions✨
+- [What Font](https://chromewebstore.google.com/detail/what-font-find-font/acpcapnaopbhbelhmbbmppghilclpkep)
+- [Mobile Simulator](https://chromewebstore.google.com/detail/mobile-simulator-responsi/ckejmhbmlajgoklhgbapkiccekfoccmk)
+- [JSON Viewer](https://chromewebstore.google.com/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh)
+- [Color Pick Eyedropper](https://chromewebstore.google.com/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg)
+
 ## Wireframe✨
 - [Excalidraw](https://excalidraw.com)
 - [Diagrams](https://app.diagrams.net)
@@ -346,3 +406,15 @@
 ## Deep Learning✨
 - [Turkce Yapay Zeka Kaynaklari](https://github.com/deeplearningturkiye/turkce-yapay-zeka-kaynaklari)
 - [Machine Learning Tutorial](https://www.knowledgehut.com/tutorials/machine-learning)
+
+## Interview✨
+- [Tech Interview Handbook](https://www.techinterviewhandbook.org/)
+
+## Blogs✨
+- [Josh Comeau](https://www.joshwcomeau.com/)
+- [Kent C. Dodds](https://kentcdodds.com/blog)
+- [Kevin Powell](https://www.kevinpowell.co/articles/)
+- [Wes Bos](https://wesbos.com/blog)
+- [Theo's Blog](https://t3.gg/blog)
+- [Modern CSS Solutions](https://moderncss.dev/)
+- [Scrimba](https://scrimba.com/articles/)
