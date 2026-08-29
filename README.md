@@ -178,6 +178,7 @@
 - [Faker.js](https://fakerjs.dev/)
 
 ## JSON✨
+- [Nutilz](https://nutilz.com/json-formatter) - Free browser-based JSON formatter, validator, and schema generator.
 - [JSON Formatter](https://jsonformatter.org)
 - [JSON Generator](https://www.json-generator.com)
 - [JSON Placeholder](https://jsonplaceholder.typicode.com)
